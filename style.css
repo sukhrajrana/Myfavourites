@@ -1,0 +1,48 @@
+h1,
+p,
+ul,
+h2 {
+  color: navy;
+  font-size: xx-large;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+.center {
+  text-align: center;
+}
+a {
+  color: black;
+}
+a.hover {
+  font-weight: bold;
+}
+h2,
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+p,
+ul {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  background-color: rgba(255, 255, 255, 0.9);
+  width: 1000px;
+  text-align: center;
+  margin: auto;
+}
+html {
+  background: url(img/leaves.jpg);
+}
+h1 {
+  font-size: 85px;
+}
+h2 {
+  font-size: 38px;
+}
+ul {
+  color: #f15c2a;
+}
